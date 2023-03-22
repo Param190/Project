@@ -1,0 +1,114 @@
+div.head{
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    top: 0;
+}
+div.foot_head{
+    background-color: coral;
+    height: 60px;
+    margin-top: 20%;
+    position: relative;
+    border-top: 1px solid black;
+}
+td{
+    text-align: center;
+    width: 320px;
+    height: 40px;
+    border-right: 1px black solid;
+    font-size: 25px;
+}
+div.mid{
+    height: 700px;
+}
+div.mid_right{
+    display: inline-block;
+    text-align: left;
+    width: 1504px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.c1{
+    margin-bottom: 10px;
+    height: auto;
+    border: 0.2px solid black;
+    transition: 0.3s;
+}
+.c1:hover{
+    transform: translate(0, -5px);
+    background-color: mintcream ;
+    border: none;
+    
+}
+.text{
+    float: right;
+    width: 80%;
+    padding-top: 10px;
+}
+.content{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.name{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 30px;
+
+}
+.rating{
+    font-style: italic;
+    font-size: 20px;
+}
+.ccd_color{
+    width: 10px;
+    height: 10px;
+    padding-left: 5px;
+    margin-left: 5px;
+    display: inline;
+}
+nav{
+    padding-top: 7px;
+    width: 100%;
+    height: 100%;
+}
+td.a{
+    text-align: center;
+    width: 320px;
+    height: 40px;
+    border-right: 0px;
+}
+a.l1:hover{
+    color: black;
+    text-decoration: underline;
+}
+a.l1:link{
+    
+}
+a.l1:active{
+
+}
+a.l1:visited{
+
+}
+iframe{
+    height: 100%;
+    width: 20%;
+    float: left;
+    padding-right: 10px;
+
+}
+
+a.l2:link{
+    color: black;
+    font-style: italic;
+    text-decoration: none;
+}
+a.l2:hover{
+    color: black;
+    text-decoration: underline;
+}
+a.l2:active{
+    color: black;
+}
+a.l2:visited{
+    color: black;
+}
